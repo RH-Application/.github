@@ -1,6 +1,14 @@
-# ESPRIT-FGSC 
+# MMRE
 ## MicroServices Spring Boot with docker
 A team of esprit students developing microservices for a project implementing an Odoo clone.
+
+## ✨ Introductions
+
+```sh
+this is for educational purposes only 
+
+```
+
 ## Authors
 
 - [@MoetazBrayek](https://www.github.com/MoetazBrayek)
