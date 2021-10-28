@@ -3,10 +3,10 @@
 A team of esprit students developing microservices for a project implementing an Odoo clone.
 ## Authors
 
-- [@firasbelhiba](https://www.github.com/firasbelhiba)
-- [@ghadakhedri1](https://www.github.com/ghadakhedri1)
-- [@sadek-selmi](https://www.github.com/sadek-selmi)
-- [@chihabhajji](https://www.github.com/chihabhajji)
+- [@MoetazBrayek](https://www.github.com/MoetazBrayek)
+- [@MohamedBenHadid](https://www.github.com/MedBenHadid)
+- [@eyaBenLil](https://www.github.com/eya02)
+- [@RahmaChhoud](https://www.github.com/rahmachhoud)
 
   
 ## Tech Stack
@@ -24,22 +24,13 @@ Our project is for Human Resource Management,it  contains 12 microservices with 
 1. User Microservice
 2. Employees microservice
 3. Job microservice
-4. Attendance microservice
-5. Leave microservice
-6. Project microservice
-7. Client microservice
-8. Invoice microservice
-9. Claim microservice
-10. Department microservice
-11. Notification microservice
-10. Client satisfaction microservice
+4. Client microservice
+5. Contact microservice
 
 ###### Description:
 
 - User Microservice : manage user authentification and register
 - Employees microservice : manage employees 
 - Client microservice :manage clients 
-- claim microservice :manage claims 
-- Department microservice :manage departements
-- Notification microservice :manage notification for admin
-- Client satisfaction :manage clients satisfaction
+- Job microservice :manage Job for admin
+- Contact microservice:manage clients Contact
